@@ -6,6 +6,9 @@
 
 main:
 
+  - title: "Personal Profile"
+    url: /  
+
   - title: "Short CV"
     url: /#short_CV    
 

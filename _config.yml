@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xiaopeng Yuan / Personal Profile"
+title                    : "Dr. Xiaopeng Yuan"
 title_separator          : "-"
 name                     : &name "Xiaopeng Yuan"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "xiaopeng-yuan/xiaopeng-yuan.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Xiaopeng Yuan"
+  name             : "Dr. Xiaopeng Yuan"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc senior researcher at Chair of Information Theory and Data Analytics in RWTH Aachen"
   location         : "Aachen, Germany"
