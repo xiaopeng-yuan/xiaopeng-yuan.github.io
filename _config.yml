@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Xiaopeng Yuan / Personal Profile"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Xiaopeng Yuan"
 description              : &description "personal description"
 url                      : https://xiaopeng-yuan.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Xiaopeng Yuan"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoc senior researcher"
+  bio              : "Postdoc senior researcher at Chair of Information Theory and Data Analytics in RWTH Aachen"
   location         : "Aachen, Germany"
-  employer         : "[RWTH Aachen University](https://www.rwth-aachen.de/)"
+  employer         : "RWTH Aachen University"
   uri              : # URL
   email            : "yuan@inda.rwth-aachen.de" 
 
