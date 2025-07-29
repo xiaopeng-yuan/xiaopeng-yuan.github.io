@@ -46,7 +46,11 @@ Green 6G](https://www.springeropen.com/collections/green6g)" at EURASIP Journal 
 
 <h1 id="publications">Publications</h1>
 
-[Patent](#patent)&emsp;[Journal Publications](#journal)&emsp;[Conference Publications](#conference)
+[Book](#book)&emsp;[Patent](#patent)&emsp;[Journal Publications](#journal)&emsp;[Conference Publications](#conference)
+
+<h2 id="book">Book</h2>
+
+1. Y. Hu, **X. Yuan**, Y. Cao, K. Meng "Reliable and Efficient Trajectory Design in UAV-Aided Wireless Networks," ***Springer***, 2024.
 
 <h2 id="patent">Patent</h2>
 
@@ -55,8 +59,8 @@ Green 6G](https://www.springeropen.com/collections/green6g)" at EURASIP Journal 
 <h2 id="journal">Journal Publications</h2>
 
 (\*Corresponding Author)
-1. B. Li, __X. Yuan\*__, Y. Hu and A. Schmeink, "Transmission Latency Minimization in Full-Duplex Relaying Network Operating With Finite Blocklength Codes," ***IEEE Journal on Selected Areas in Communications***, accepted, 2024.
-1. Y. Huang, Y. Hu, __X. Yuan\*__, and A. Schmeink, "Analytical Optimal Joint Resource Allocation and Continuous Trajectory Design for UAV-Assisted Covert Communications," ***IEEE Transactions on Wireless Communications***, early access, 2024.
+1. B. Li, __X. Yuan\*__, Y. Hu and A. Schmeink, "Transmission Latency Minimization in Full-Duplex Relaying Network Operating With Finite Blocklength Codes," ***IEEE Journal on Selected Areas in Communications***, vol. 43, no. 4, pp. 1168-1182, April 2025.
+1. Y. Huang, Y. Hu, __X. Yuan\*__, and A. Schmeink, "Analytical Optimal Joint Resource Allocation and Continuous Trajectory Design for UAV-Assisted Covert Communications," ***IEEE Transactions on Wireless Communications***,  vol. 24, no. 1, pp. 213-227, Jan. 2025.
 1. __X. Yuan__, Y. Hu and A. Schmeink, "Optimal Joint Design on Continuous Trajectory and Power Control for UAV-Assisted Energy Constrained Communications," ***IEEE Transactions on Vehicular Technology***, vol. 73, no. 9, pp. 13060-13075, Sept. 2024. 
 1. __X. Yuan__, B. Li, Y. Hu, Y. Zhu and A. Schmeink, "Toward Scalable Clustered URLLC IoT Network: Resource Allocation and Cooperation Scheduling for Reliability Enhancement," ***IEEE Internet of Things Journal***, vol. 11, no. 15, pp. 25982-25996, Aug. 2024.
 1. __X. Yuan__, Y. Zhu, Y. Hu, B. Ai and A. Schmeink, "Optimal User Grouping and Analytical Joint Resource Allocation Design in Hybrid BC-TDMA Assisted URLLC Networks," ***IEEE Transactions on Wireless Communications***, vol. 23, no. 5, pp. 4459-4474, May 2024.

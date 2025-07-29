@@ -21,7 +21,7 @@ repository               : "xiaopeng-yuan/xiaopeng-yuan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Dr. Xiaopeng Yuan"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc senior researcher at Chair of Information Theory and Data Analytics in RWTH Aachen"
