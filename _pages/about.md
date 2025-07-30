@@ -59,7 +59,7 @@ Green 6G](https://www.springeropen.com/collections/green6g)" at EURASIP Journal 
 <h2 id="journal">Journal Publications</h2>
 
 (\*Corresponding Author)
-1. B. Li, __X. Yuan\*__, Y. Hu and A. Schmeink, "Transmission Latency Minimization in Full-Duplex Relaying Network Operating With Finite Blocklength Codes," <span style="color:#005073;">___IEEE Journal on Selected Areas in Communications___</span>, vol. 43, no. 4, pp. 1168-1182, April 2025.
+1. B. Li, __X. Yuan\*__, Y. Hu and A. Schmeink, "Transmission Latency Minimization in Full-Duplex Relaying Network Operating With Finite Blocklength Codes," <span style="color:lightblue;">___IEEE Journal on Selected Areas in Communications___</span>, vol. 43, no. 4, pp. 1168-1182, April 2025.
 1. Y. Huang, Y. Hu, __X. Yuan\*__, and A. Schmeink, "Analytical Optimal Joint Resource Allocation and Continuous Trajectory Design for UAV-Assisted Covert Communications," _IEEE Transactions on Wireless Communications_,  vol. 24, no. 1, pp. 213-227, Jan. 2025.
 1. __X. Yuan__, Y. Hu and A. Schmeink, "Optimal Joint Design on Continuous Trajectory and Power Control for UAV-Assisted Energy Constrained Communications," _IEEE Transactions on Vehicular Technology_, vol. 73, no. 9, pp. 13060-13075, Sept. 2024. 
 1. __X. Yuan__, B. Li, Y. Hu, Y. Zhu and A. Schmeink, "Toward Scalable Clustered URLLC IoT Network: Resource Allocation and Cooperation Scheduling for Reliability Enhancement," _IEEE Internet of Things Journal_, vol. 11, no. 15, pp. 25982-25996, Aug. 2024.
