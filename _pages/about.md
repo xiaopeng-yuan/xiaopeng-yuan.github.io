@@ -59,7 +59,7 @@ Green 6G](https://www.springeropen.com/collections/green6g)" at EURASIP Journal 
 <h2 id="journal">Journal Publications</h2>
 
 (\*Corresponding Author)
-1. B. Li, __X. Yuan\*__, Y. Hu and A. Schmeink, "Transmission Latency Minimization in Full-Duplex Relaying Network Operating With Finite Blocklength Codes," _IEEE Journal on Selected Areas in Communications_, vol. 43, no. 4, pp. 1168-1182, April 2025.
+1. B. Li, __X. Yuan\*__, Y. Hu and A. Schmeink, "Transmission Latency Minimization in Full-Duplex Relaying Network Operating With Finite Blocklength Codes," <span style="color:lightblue;">_IEEE Journal on Selected Areas in Communications_</span>, vol. 43, no. 4, pp. 1168-1182, April 2025.
 1. Y. Huang, Y. Hu, __X. Yuan\*__, and A. Schmeink, "Analytical Optimal Joint Resource Allocation and Continuous Trajectory Design for UAV-Assisted Covert Communications," _IEEE Transactions on Wireless Communications_,  vol. 24, no. 1, pp. 213-227, Jan. 2025.
 1. __X. Yuan__, Y. Hu and A. Schmeink, "Optimal Joint Design on Continuous Trajectory and Power Control for UAV-Assisted Energy Constrained Communications," _IEEE Transactions on Vehicular Technology_, vol. 73, no. 9, pp. 13060-13075, Sept. 2024. 
 1. __X. Yuan__, B. Li, Y. Hu, Y. Zhu and A. Schmeink, "Toward Scalable Clustered URLLC IoT Network: Resource Allocation and Cooperation Scheduling for Reliability Enhancement," _IEEE Internet of Things Journal_, vol. 11, no. 15, pp. 25982-25996, Aug. 2024.
@@ -77,7 +77,7 @@ Green 6G](https://www.springeropen.com/collections/green6g)" at EURASIP Journal 
 1. Y. Gao, M. Liu, __X. Yuan__, Y. Hu, P. Sun, A. Schmeink, "Federated Deep Reinforcement Learning Based Trajectory Design for UAV-Assisted Networks with Mobile Ground Devices," _Scientific Reports_, vol. 14, no. 1, 2024.
 1. H. Xu, Y. Hu, Y. Zhu, __X. Yuan__ and A. Schmeink, "Achieving Secure and Fresh Information Updates via Short-Packet Communications," _IEEE Wireless Communications Letters_, vol. 13, no. 11, pp. 3232-3236, Nov. 2024.
 1. N. Guo, __X. Yuan__, Y. Hu, B. Ai and A. Schmeink, "Achievable Rate Maximization for Multi-Antenna WPT Enabled Symbiotic Communication Network," _IEEE Transactions on Cognitive Communications and Networking_, vol. 10, no. 5, pp. 1690-1703, Oct. 2024.
-1. P. Wu, __X. Yuan__, Y. Hu and A. Schmeink, "Trajectory and User Assignment Design for UAV Communication Network With No-Fly Zone," ***IEEE Transactions on Vehicular Technology***, vol. 73, no. 10, pp. 15820-15825, Oct. 2024.
+1. P. Wu, __X. Yuan__, Y. Hu and A. Schmeink, "Trajectory and User Assignment Design for UAV Communication Network With No-Fly Zone," _IEEE Transactions on Vehicular Technology_, vol. 73, no. 10, pp. 15820-15825, Oct. 2024.
 1. Y. Gao, __X. Yuan__, D. Yang, Y. Hu, Y. Cao, A. Schmeink, "UAV-Assisted MEC System with Mobile Ground Terminals: DRL-Based Joint Terminal Scheduling and UAV 3D Trajectory Design," _IEEE Transactions on Vehicular Technology_, vol. 73, no. 7, pp. 10164-10180, July 2024.
 1. P. Wu, __X. Yuan__, Y. Hu and A. Schmeink, "Joint Power Allocation and Trajectory Design for UAV-Enabled Covert Communication," _IEEE Transactions on Wireless Communications_, vol. 23, no. 1, pp. 683-698, Jan. 2024.
 1. Y. Li, __X. Yuan__, Y. Hu, J. Yang and A. Schmeink, "Optimal UAV Trajectory Design for Moving Users in Integrated Sensing and Communications Networks," _IEEE Transactions on Intelligent Transportation Systems_, vol. 24, no. 12, pp. 15113-15130, Dec. 2023.
