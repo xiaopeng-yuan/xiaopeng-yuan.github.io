@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a senior researcher at [RWTH Aachen University](https://www.rwth-aachen.de/), Germany. Previously, I received my M.Sc. degree and my Ph.D. degree in electrical engineering, information technology and computer engineering from RWTH Aachen University, respectively in 2019 with [Springorum-Medal Award](https://prorwth.de/de/projekte-und-aktivitaeten/auszeichnungen-und-ehrungen/springorum-denkmuenze/) and in Mar. 2023 with [Borchers-Medallion Award](https://prorwth.de/de/projekte-und-aktivitaeten/auszeichnungen-und-ehrungen/borchers-plakette/). Before those, I received my B.Sc. Degree in automation from Beijing University of Aeronautics & Astronautics, China, in 2016. My current research interests are in unmanned aerial vehicle (UAV)-assisted wireless networks, ultra-reliable low-latency communications (URLLC), wireless power transfer (WPT) technologies and optimization techniques.
+I am currently a senior researcher at [RWTH Aachen University](https://www.rwth-aachen.de/), Germany. Previously, I received my M.Sc. degree and my Ph.D. degree in electrical engineering and information technology from RWTH Aachen University, respectively in 2019 with [Springorum-Medal Award](https://prorwth.de/de/projekte-und-aktivitaeten/auszeichnungen-und-ehrungen/springorum-denkmuenze/) and in Mar. 2023 with [Borchers-Medallion Award](https://prorwth.de/de/projekte-und-aktivitaeten/auszeichnungen-und-ehrungen/borchers-plakette/). Before those, I received my B.Sc. Degree in automation from Beijing University of Aeronautics & Astronautics, China, in 2016. My current research interests are in unmanned aerial vehicle (UAV)-assisted wireless networks, ultra-reliable low-latency communications (URLLC), wireless power transfer (WPT) technologies, flexible antenna system and optimization techniques.
 
 ---
 
@@ -34,9 +34,10 @@ University for outstanding graduate grades with distinction, Germany, 2020.&nbsp
 
 <h1 id="academical_activities">Academical Activities</h1>
 
+* Serving as an Editor of IEEE Transactions on Communications, since Aug. 2025.
 * Serving as an Editor of EURASIP Journal on Wireless Communications and Networking, since Dec. 2023.
-* Organizing a Special Issue titled "[Energy Resilient and Sustainable Communication for
-Green 6G](https://www.springeropen.com/collections/green6g)" at EURASIP Journal on Wireless Communications and Networking, 2024.
+* Organized a Special Issue titled "Energy Resilient and Sustainable Communication for
+Green 6G" at EURASIP Journal on Wireless Communications and Networking, 2024.
 * Organized Special Sessions at 2024 ISWCS, 2025 IEEE VTC-Fall.
 * Served as TPC Chair at 2023 IEEE iThings Workshop IoT-PS.
 * Served as Session Chair at 2022 IEEE ICC, 2024 IEEE WCNC, 2024 ISWCS, 2024 IEEE Globecom.
@@ -50,7 +51,7 @@ Green 6G](https://www.springeropen.com/collections/green6g)" at EURASIP Journal 
 
 <h2 id="book">Book</h2>
 
-1. Y. Hu, **X. Yuan**, Y. Cao, K. Meng "Reliable and Efficient Trajectory Design in UAV-Aided Wireless Networks," _Springer_, 2024.
+1. Y. Hu, **X. Yuan**, Y. Cao, K. Meng, "Reliable and Efficient Trajectory Design in UAV-Aided Wireless Networks," _Springer_, 2024.
 
 <h2 id="patent">Patent</h2>
 
@@ -59,6 +60,7 @@ Green 6G](https://www.springeropen.com/collections/green6g)" at EURASIP Journal 
 <h2 id="journal">Journal Publications</h2>
 
 (\*Corresponding Author)
+1. __X. Yuan__, N. Guo, Y. Hu, R. Schober and A. Schmeink, ""Optimal Antenna Configuration Filtering and Joint Power Control in Fluid Antenna Multiple Access Networks," <span style="color:#438496;">___IEEE Journal on Selected Areas in Communications___</span>, early access, 2025.
 1. B. Li, __X. Yuan\*__, Y. Hu and A. Schmeink, "Transmission Latency Minimization in Full-Duplex Relaying Network Operating With Finite Blocklength Codes," <span style="color:#438496;">___IEEE Journal on Selected Areas in Communications___</span>, vol. 43, no. 4, pp. 1168-1182, April 2025.
 1. Y. Huang, Y. Hu, __X. Yuan\*__, and A. Schmeink, "Analytical Optimal Joint Resource Allocation and Continuous Trajectory Design for UAV-Assisted Covert Communications," <span style="color:#438496;">___IEEE Transactions on Wireless Communications___</span>,  vol. 24, no. 1, pp. 213-227, Jan. 2025.
 1. __X. Yuan__, Y. Hu and A. Schmeink, "Optimal Joint Design on Continuous Trajectory and Power Control for UAV-Assisted Energy Constrained Communications," <span style="color:#438496;">___IEEE Transactions on Vehicular Technology___</span>, vol. 73, no. 9, pp. 13060-13075, Sept. 2024. 
@@ -72,7 +74,8 @@ Green 6G](https://www.springeropen.com/collections/green6g)" at EURASIP Journal 
 1. __X. Yuan__, Y. Hu, D. Li and A. Schmeink, "Novel Optimal Trajectory Design in UAV-Assisted Networks: A Mechanical Equivalence-Based Strategy," <span style="color:#438496;">___IEEE Journal on Selected Areas in Communications___</span>, vol. 39, no. 11, pp. 3524-3541, Nov. 2021.
 1. __X. Yuan__, Y. Hu and A. Schmeink, "Joint Design of UAV Trajectory and Directional Antenna Orientation in UAV-Enabled Wireless Power Transfer Networks," <span style="color:#438496;">___IEEE Journal on Selected Areas in Communications___</span>, vol. 39, no. 10, pp. 3081-3096, Oct. 2021.
 1. __X. Yuan__, T. Yang, Y. Hu, J. Xu and A. Schmeink, "Trajectory Design for UAV-Enabled Multiuser Wireless Power Transfer With Nonlinear Energy Harvesting," <span style="color:#438496;">___IEEE Transactions on Wireless Communications___</span>, vol. 20, no. 2, pp. 1105-1121, Feb. 2021.
-1. P. Wu, K. Li, __X. Yuan__, Y. Hu and A. Schmeink, "UAV-Aided Data Collection Against Detection: Joint Trajectory and User Scheduling Design," <span style="color:#438496;">___IEEE Transactions on Vehicular Technology___</span>, early access.
+1. P. Wu, __X. Yuan__, Y. Hu and A. Schmeink, "UAV-Enabled Covert Autonomous Vehicular Communication: Joint Trajectory and Resource Allocation Design," <span style="color:#438496;">___IEEE Transactions on Intelligent Transportation Systems___</span>, early access, 2025.
+1. P. Wu, K. Li, __X. Yuan__, Y. Hu and A. Schmeink, "UAV-Aided Data Collection Against Detection: Joint Trajectory and User Scheduling Design," <span style="color:#438496;">___IEEE Transactions on Vehicular Technology___</span>, vol. 74, no. 9, pp. 14817-14822, Sept. 2025.
 1. M. Rihan, D. Wübben, A. Bhattacharya, M. Petrova, __X. Yuan__, A. Schmeink, et al., "Unified 3D Networks: Architecture, Challenges, Recent Results, and Future Opportunities," <span style="color:#438496;">___IEEE Open Journal of Vehicular Technology___</span>, vol. 6, pp. 170-201, 2025.
 1. Y. Gao, M. Liu, __X. Yuan__, Y. Hu, P. Sun, A. Schmeink, "Federated Deep Reinforcement Learning Based Trajectory Design for UAV-Assisted Networks with Mobile Ground Devices," <span style="color:#438496;">___Scientific Reports___</span>, vol. 14, no. 1, 2024.
 1. H. Xu, Y. Hu, Y. Zhu, __X. Yuan__ and A. Schmeink, "Achieving Secure and Fresh Information Updates via Short-Packet Communications," <span style="color:#438496;">___IEEE Wireless Communications Letters___</span>, vol. 13, no. 11, pp. 3232-3236, Nov. 2024.
@@ -112,8 +115,9 @@ Green 6G](https://www.springeropen.com/collections/green6g)" at EURASIP Journal 
 1. __X. Yuan__, Y. Hu, J. Gross and A. Schmeink, "Simultaneous Wireless Information and Power Transfer in Low-Latency Relaying Networks with Nonlinear Energy Harvesting,"  _2021 IEEE Statistical Signal Processing Workshop (SSP)_, invited paper, 2021, pp. 281-285.
 1. __X. Yuan__, Y. Hu, J. Gross and A. Schmeink, "Radio-Map-Based UAV Placement Design for UAV-Assisted Relaying Networks," _2021 IEEE Statistical Signal Processing Workshop (SSP)_, invited paper, 2021, pp. 286-290.
 1. __X. Yuan__, Y. Hu and A. Schmeink, "Joint Design of UAV Trajectory and Directional Antenna Orientation in UAV-Enabled WPT Networks," _2021 IEEE International Conference on Communications Workshops (ICC Workshops)_, 2021, pp. 1-6.
+1. Y. Zhao, W. Gao, C. J. Juanola, __X. Yuan__, Y. Hu and A. Schmeink, "Energy-Minimized Analytical Optimal Resource Allocation for Multi-Access URLLC with Individual QoS Constraints: (Invited Paper)," 2025 IEEE 26th International Workshop on Signal Processing and Artificial Intelligence for Wireless Communications (SPAWC), Surrey, United Kingdom, 2025, pp. 1-5.
 1. N. Guo, S. Wang, L. Li, Y. Ye, __X. Yuan__ and Y. Hu, "Effective Secrecy Throughput Maximization for WPT Enabled IoT in the FBL Regime," _2024 10th International Conference on Computer and Communications (ICCC)_, Chengdu, China, 2024, pp. 2425-2430.
-1. H. Zhang, Y. Hu, __X. Yuan__ and A. Schmeink, "Semantic Feature Compression and Adaption for Latency-Sensitive Semantic Communication," _2024 IEEE Global Communications Conference Workshops (Globecom Workshops)_, accepted, 2024.
+1. H. Zhang, Y. Hu, __X. Yuan__ and A. Schmeink, "Semantic Feature Compression and Adaption for Latency-Sensitive Semantic Communication," _2024 IEEE Globecom Workshops (GC Wkshps)_, Cape Town, South Africa, 2024, pp. 1-6.
 1. Y. Huang, Y. Hu, __X. Yuan__, M. Liu and A. Schmeink, "Analytical Optimal Joint Resource Allocation and Continuous Trajectory Design for UAV-Assisted Covert Communications," _GLOBECOM 2024 - 2024 IEEE Global Communications Conference_,  Cape Town, South Africa, 2024, pp. 2034-2039.
 1. P. Wu, __X. Yuan__, Y. Zhang and Q. Song, "Trajectory and User Scheduling Design for UAV Semantic Communication in PLoS Channels," _2024 19th International Symposium on Wireless Communication Systems (ISWCS)_, Rio de Janeiro, Brazil, 2024, pp. 1-6.
 1. N. Guo, __X. Yuan__, B. Li, Q. He and A. Schmeink, "IRS Deployment in Wireless Powered Communication Network with Nonlinear Energy Harvesting," _2024 19th International Symposium on Wireless Communication Systems (ISWCS)_, Rio de Janeiro, Brazil, 2024, pp. 1-6.
