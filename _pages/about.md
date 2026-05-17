@@ -39,13 +39,12 @@ University for outstanding graduate grades with distinction, Germany, 2020.&nbsp
 <h1 id="academical_activities">Academical Activities</h1>
 
 * Serving as an Editor of IEEE Transactions on Communications.
-* Serving as an Editor of Springer Journal on Wireless Communications and Networking.
-* Organized a Special Issue titled "Energy Resilient and Sustainable Communication for
-Green 6G" at Springer Journal on Wireless Communications and Networking, 2024.
+* Serving as an Editor of (Springer) Journal on Wireless Communications and Networking.
+* Organized a Special Issue at (Springer) Journal on Wireless Communications and Networking, 2024.
 * Organized Special Sessions at 2024 ISWCS, 2025 IEEE VTC-Fall.
 * Served as TPC Chair at 2023 IEEE iThings Workshop IoT-PS.
 * Served as Session Chair at 2022 IEEE ICC, 2024 IEEE WCNC, 2024 ISWCS, 2024 IEEE Globecom.
-* Served as TPC Member at 2022 IEEE Smart Data, 2022 ISWCS, 2024 IEEE Smart Data.&nbsp;
+* Served as TPC Member at 2022 IEEE Smart Data, 2022 ISWCS, 2024 IEEE Smart Data, 2026 IEEE VTC-Spring, 2026 IEEE Globecom.&nbsp;
 
 ---
 
@@ -63,7 +62,8 @@ Green 6G" at Springer Journal on Wireless Communications and Networking, 2024.
 
 <h2 id="journal">Journal Publications</h2>
 
-(\*Corresponding Author, updated until 2026.04.01)
+(\*Corresponding Author, updated until 2026.05.20)
+1. __X. Yuan__, B. Li, Y. Hu and A. Schmeink, "Cross-Layer Optimal Joint Packet Routing and Blocklength Design for Latency-Sensitive Wireless Communication," <span style="color:#438496;">___IEEE Transactions on Wireless Communications___</span>, vol. 25, pp. 16874-16887, 2026.
 1. B. Li, __X. Yuan\*__, Y. Hu and A. Schmeink, "On the Convexity Analysis of Message Error Probability in Rateless-Coded Transmission: A Deeper Dive Into Reliability," <span style="color:#438496;">___IEEE Transactions on Vehicular Technology___</span>, vol. 75, no. 1, pp. 1713-1718, Jan. 2026.
 1. __X. Yuan__, N. Guo, Y. Hu, R. Schober and A. Schmeink, "Optimal Antenna Configuration Filtering and Joint Power Control in Fluid Antenna Multiple Access Networks," <span style="color:#438496;">___IEEE Journal on Selected Areas in Communications___</span>, vol. 44, pp. 1227-1242, 2026.
 1. B. Li, __X. Yuan\*__, Y. Hu and A. Schmeink, "Transmission Latency Minimization in Full-Duplex Relaying Network Operating With Finite Blocklength Codes," <span style="color:#438496;">___IEEE Journal on Selected Areas in Communications___</span>, vol. 43, no. 4, pp. 1168-1182, April 2025.
@@ -79,6 +79,8 @@ Green 6G" at Springer Journal on Wireless Communications and Networking, 2024.
 1. __X. Yuan__, Y. Hu, D. Li and A. Schmeink, "Novel Optimal Trajectory Design in UAV-Assisted Networks: A Mechanical Equivalence-Based Strategy," <span style="color:#438496;">___IEEE Journal on Selected Areas in Communications___</span>, vol. 39, no. 11, pp. 3524-3541, Nov. 2021.
 1. __X. Yuan__, Y. Hu and A. Schmeink, "Joint Design of UAV Trajectory and Directional Antenna Orientation in UAV-Enabled Wireless Power Transfer Networks," <span style="color:#438496;">___IEEE Journal on Selected Areas in Communications___</span>, vol. 39, no. 10, pp. 3081-3096, Oct. 2021.
 1. __X. Yuan__, T. Yang, Y. Hu, J. Xu and A. Schmeink, "Trajectory Design for UAV-Enabled Multiuser Wireless Power Transfer With Nonlinear Energy Harvesting," <span style="color:#438496;">___IEEE Transactions on Wireless Communications___</span>, vol. 20, no. 2, pp. 1105-1121, Feb. 2021.
+1. P. Wu, __X. Yuan__, Y. Hu and A. Schmeink, "Toward Performance Analysis and Trajectory Design for UAV-Enabled Covert Communication Under Nakagami-m Channel," <span style="color:#438496;">___IEEE Wireless Communications Letters___</span>, vol. 15, pp. 3009-3013, 2026.
+1. P. Wu, __X. Yuan__, W. Gao, Y. Hu and A. Schmeink, "Pinching Antenna Assisted UAV-Enabled Covert Communication against Cooperative Detection," <span style="color:#438496;">___IEEE Transactions on Vehicular Technology___</span>, early access, 2026.
 1. Y. Zhu, __X. Yuan__, Y. Hu, B. Ai, R. Wang, B. Han and A. Schmeink, "Fairness-aware Age-of-Information Minimization in WPT-Assisted Short-Packet Data Collection for mURLLC," <span style="color:#438496;">___IEEE Transactions on Mobile Computing___</span>, early access, 2026.
 1. P. Wu, __X. Yuan__, Y. Hu and A. Schmeink, "UAV-Enabled Covert Communication With Movable Antenna Against Cooperative Detection," <span style="color:#438496;">___IEEE Transactions on Vehicular Technology___</span>, early access, 2026.
 1. P. Wu, __X. Yuan__, Y. Hu and A. Schmeink, "Age of Information for UAV-Enabled Covert and Secure Communication," <span style="color:#438496;">___IEEE Wireless Communications Letters___</span>, vol. 15, pp. 1524-1528, 2026.
